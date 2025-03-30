@@ -27,21 +27,21 @@ The model is trained on the Shakespeare dataset provided by TensorFlow:
 ## Installation & Setup  
 
 ### **1️. Clone the Repository**  
-bash
+```bash
 git clone https://github.com/asmirajj/shakespeare-text-generator.git
 cd shakespeare-text-generator
-
+```
 
 ### **2️. Install Dependencies**
-bash
+```bash
 pip install tensorflow numpy
-
+```
 
 ### **3️. Train the Model**
-(Uncomment the training code in text_generator.py before running this command.)
-bash
+*(Uncomment the training code in text_generator.py before running this command.)*
+```bash
 python text_generator.py
-
+```
 
 ### **4️. Generate Text**
 Run the script and input desired parameters:
