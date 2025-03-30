@@ -28,7 +28,7 @@ The model is trained on the Shakespeare dataset provided by TensorFlow:
 
 ### **1️. Clone the Repository**  
 bash
-git clone https://github.com/your-username/shakespeare-text-generator.git
+git clone https://github.com/asmirajj/shakespeare-text-generator.git
 cd shakespeare-text-generator
 
 
